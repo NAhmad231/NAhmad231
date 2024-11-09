@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/NAhmad231">
-    <img src="https://github.com/NAhmad231/NAhmad231/blob/main/tech.webp" alt="Tech Image" width="1000" height="400">
-  </a>
+  <img src="https://github.com/NAhmad231/NAhmad231/blob/main/penguin.jpg" alt="Penguin" width="1500" height="400">
 </p>
 
 
