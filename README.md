@@ -1,8 +1,13 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2FCodingNinjasIndia&psig=AOvVaw0IGgI-M51IGWLctfy3mjiF&ust=1731262246730000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC-39Hsz4kDFQAAAAAdAAAAABAE)](https://rishavchanda.io)
+<p align="center">
+  <a href="https://github.com/NAhmad231">
+    <img src="https://github.com/NAhmad231/NAhmad231/blob/main/tech.webp" alt="Tech Image" width="1000" height="400">
+  </a>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Nisha Ahamd</h1>
 <h3 align="center">Software Engineer | Passionate about coding and problem-solving | Always learning | Open to collaborations</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
+<img align="right" alt="Coding" width="500" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahmad231&label=Profile%20views&color=0e75b6&style=flat" alt="nahmad231" /> </p>
 
