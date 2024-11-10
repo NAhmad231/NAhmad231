@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React Native , C++**
 
-- 💬 Ask me about **MEARN , DSA**
+- 💬 Ask me about **MERN , DSA**
 
 - 📫 How to reach me **nishasaifi2004@gmail.com**
 
