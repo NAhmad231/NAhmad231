@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Nisha Ahamd</h1>
+<h1 align="center">Hi 👋, I'm Nisha Ahmad</h1>
 <h3 align="center">Software Engineer | Passionate about coding and problem-solving | Always learning | Open to collaborations</h3>
 <img align="right" alt="Coding" width="500" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
 
