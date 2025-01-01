@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **GLB.Connect**
 
-- 🌱 I’m currently learning **React Native , C++**
+- 🌱 I’m currently learning **React , C++**
 
 - 💬 Ask me about **MERN , DSA**
 
